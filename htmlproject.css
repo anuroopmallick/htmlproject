@@ -1,0 +1,15 @@
+#mydiv
+{
+    border: 1px solid black;
+    height: 200px;
+    overflow: scroll;
+    width: 300px;
+}
+
+#div2
+{
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+}
